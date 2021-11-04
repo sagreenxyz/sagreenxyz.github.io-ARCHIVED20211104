@@ -1,0 +1,7 @@
+/* Used to move the eye icon inside the input box (password 
+box, specifically) and change cursor to pointer*/
+form i {
+    margin-left: -30px;
+    cursor: pointer;
+}
+
