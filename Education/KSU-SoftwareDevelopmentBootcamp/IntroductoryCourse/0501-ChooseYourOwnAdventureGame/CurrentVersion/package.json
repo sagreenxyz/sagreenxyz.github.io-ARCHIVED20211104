@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
